@@ -10,7 +10,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
-
+.tanzu
 
 target/
 
